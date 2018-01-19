@@ -2,7 +2,8 @@
 ![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/images/menuLogoBack.png?raw=true)
 
 # Silk
-Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分布式存储应用与UDP/TCP可靠P2P网络传输技术, 自主研发的IM通讯协议, 覆盖主流平台(Win, Android, IOS, Mac, Linux, WP), 插件式高扩展性, OpenGL渲染高流畅UI, 支持集成Web应用, 可以私有化部署, 公有云部署, 简易部署.
+Silk丝绸平台:
+IM即时通讯平台, **非开源**, 采用自主研发的分布式存储应用与UDP/TCP可靠P2P网络传输技术, 自主研发的IM通讯协议, 覆盖主流平台(Win, Android, IOS, Mac, Linux, WP), 插件式高扩展性, OpenGL渲染高流畅UI, 支持集成Web应用, 可以私有化部署, 公有云部署, 简易部署.
 
 ![](https://img.shields.io/badge/%E7%89%88%E6%9D%83%E8%AE%B8%E5%8F%AF-MIT-orange.svg)
 ![](https://img.shields.io/badge/Qt-5.10-blue.svg)
@@ -15,12 +16,14 @@ Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分�
 这款产品我是从2013年开始开发至今, 利用业余时间, 比如晚上, 周末, 各种节假日. 从底层一步一步搭建起来的.
 产品的技术文档, 产品文档, 美工图, 测试方案, 测试文档, 技术调研, 功能开发, 运维部署方案, 均由我独立完成.
 
-技术特点:
+##### 技术特点:
+***
 * 自主研发的分布式数据存储中间件, 可以方便快捷的搭建和部署基于分布式存储应用的云端系统, 轻松实现跨区域分布式存储系统.
 * 自主研发的点对点可靠网络传输中间件, 可以搭建P2P网络平台系统, 轻松实现音视频会议中心, 直播, 远程桌面/文档演示等功能.
 * 基于上面两个核心中间件, 搭建出来的丝绸服务器和客户端, 作为消息, 文件, 业务应用, 均能应对自如.
 
-产品特点:
+##### 产品特点:
+***
 1. P2P
     基于UDP/TCP协议的内网穿透解决方案.
 
@@ -56,17 +59,19 @@ Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分�
 10. 易维护的代码
     PC客户端, Android客户端, IOS客户端, WP客户端 均采用同一套代码编译而成, 维护和需求变更成本非常低.
 
- 后续开发:
+##### 后续开发:
+***
  1. 音视频通话, 音视频会议, 基于可靠UDP模式下的网络传输中间件, 开发音视频传输是非常容易的事, 只用关心采集和编解码就行了.
  2. 远程桌面, 电子白板 这个同上
  3. 云盘, 基于分布式数据存储中间件, 可在目前C/S网络架构和P2P模式的配合上完成.
 
- 产品视频介绍:  丝绸平台项目介绍书
- http://v.youku.com/v_show/id_XMjkxODcxMzI1Ng==.html
+##### 产品视频介绍:  丝绸平台项目介绍书
+***
+http://v.youku.com/v_show/id_XMjkxODcxMzI1Ng==.html
 
 #### 运行截图:
-***
 ##### PC客户端:
+***
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(1).png?raw=true)
 
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(2).png?raw=true)
@@ -82,6 +87,7 @@ Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分�
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(7).png?raw=true)
 
 ##### Android客户端:
+***
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(1).png?raw=true)
 
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(2).png?raw=true)
@@ -103,11 +109,13 @@ Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分�
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(10).png?raw=true)
 
 ##### 中心端服务器:
+***
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(8).png?raw=true)
 
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(9).png?raw=true)
 
 ##### 数据库服务器:
+***
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(10).png?raw=true)
 
 ![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(11).png?raw=true)
@@ -115,6 +123,7 @@ Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分�
 
 
 #### 应用实例:
+***
 SilkZipSplitter: Silk Zip文件分割器
 
 ![](https://github.com/zhengtianzuo/Silk/blob/master/SilkZipSplitter/show.gif?raw=true)
@@ -125,7 +134,8 @@ SilkInstaller: Silk 安装程序
 ![](https://github.com/zhengtianzuo/Silk/blob/master/SilkInstaller/show.gif?raw=true)
 
 
-计划加入的工程:
+#### 计划加入的工程:
+***
 1. SilkConfig: Silk配置管理程序
 
 
