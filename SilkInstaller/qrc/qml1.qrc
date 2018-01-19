@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>release.z01</file>
+    </qresource>
+</RCC>
