@@ -2,7 +2,7 @@
 ![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/images/menuLogoBack.png?raw=true)
 
 # Silk
-Silk丝绸平台: IM即时通讯平台, 采用自主研发的分布式存储应用与UDP/TCP可靠P2P网络传输技术, 自主研发的IM通讯协议, 覆盖主流平台(Win, Android, IOS, Mac, Linux, WP), 插件式高扩展性, OpenGL渲染高流畅UI, 支持集成Web应用, 可以私有化部署, 公有云部署, 简易部署.
+Silk丝绸平台: IM即时通讯平台, **非开源**, 采用自主研发的分布式存储应用与UDP/TCP可靠P2P网络传输技术, 自主研发的IM通讯协议, 覆盖主流平台(Win, Android, IOS, Mac, Linux, WP), 插件式高扩展性, OpenGL渲染高流畅UI, 支持集成Web应用, 可以私有化部署, 公有云部署, 简易部署.
 
 ![](https://img.shields.io/badge/%E7%89%88%E6%9D%83%E8%AE%B8%E5%8F%AF-MIT-orange.svg)
 ![](https://img.shields.io/badge/Qt-5.10-blue.svg)
@@ -12,6 +12,57 @@ Silk丝绸平台: IM即时通讯平台, 采用自主研发的分布式存储应�
 ![](https://img.shields.io/badge/%E7%BC%96%E8%AF%91-%E6%88%90%E5%8A%9F-brightgreen.svg)
 
 
+#### 运行截图:
+***
+##### PC客户端:
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(1).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(2).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(3).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(4).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(5).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(6).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(7).png?raw=true)
+
+##### Android客户端:
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(1).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(2).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(3).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(4).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(5).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(6).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(7).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(8).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(9).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/android/android%20(10).png?raw=true)
+
+##### 中心端服务器:
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(8).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(9).png?raw=true)
+
+##### 数据库服务器:
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(10).png?raw=true)
+
+![](https://github.com/zhengtianzuo/Silk/blob/master/images/win/pc%20(11).png?raw=true)
+
+
+
+#### 应用实例:
 SilkZipSplitter: Silk Zip文件分割器
 
 ![](https://github.com/zhengtianzuo/Silk/blob/master/SilkZipSplitter/show.gif?raw=true)
