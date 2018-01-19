@@ -26,6 +26,9 @@ SilkInstaller: Silk 安装程序
 ![](https://github.com/zhengtianzuo/Silk/blob/master/SilkInstaller/show.gif?raw=true)
 
 
+计划加入的工程:
+1. SilkConfig: Silk配置管理程序
+
 ***
 #### **捐赠**
 ##### 捐赠名单:
